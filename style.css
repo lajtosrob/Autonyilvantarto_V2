@@ -3,11 +3,21 @@
     width: 191px;
     text-align: center;
 }
-.container .col-5 button {
+.container .table-head button {
     width: 70px;
+    border: none;
+    border-radius: 3px;
+    background-color: #f5f7f8;
+    color: #0057BE;
+    font-weight: bold;
 }
 .container .table-head button:nth-child(2) {
     width: 120px;
+}
+.container .table-head button:nth-child(3) {
+    width: 120px;
+    color: #f5f7f8;
+    background-color: #0057BE;
 }
 .container {
     margin: 10px auto;
