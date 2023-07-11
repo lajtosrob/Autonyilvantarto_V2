@@ -1,0 +1,35 @@
+.table tr th {
+    border: solid black 1px;
+    width: 191px;
+    text-align: center;
+}
+.container .col-5 button {
+    width: 70px;
+}
+.container .table-head button:nth-child(2) {
+    width: 120px;
+}
+.container {
+    margin: 10px auto;
+}
+.table tr td {
+    width: 191px;
+    border: solid black 1px;
+}
+.container .table-head #delete {
+    margin-left: 90px;
+    font-weight: bold;
+}
+
+.container .table-row .table {
+    max-width: 600px;
+}
+.container .table-head {
+    margin: 20px auto;
+}
+.container .input-fields {
+    margin: 0 auto;
+}
+.container .table-row {
+    margin: 0 auto;
+}
